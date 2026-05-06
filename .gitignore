@@ -1,0 +1,14 @@
+# Laravel
+/backend/vendor
+/backend/node_modules
+/backend/.env
+
+# Nuxt
+/frontend/node_modules
+/frontend/.nuxt
+/frontend/.output
+
+# umum
+.DS_Store
+npm-debug.log
+yarn-error.log
